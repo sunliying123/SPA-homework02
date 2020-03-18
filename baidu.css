@@ -1,0 +1,64 @@
+.img{
+    background: url(img.jpg);
+    height: 500px;
+    width: 50%;
+}
+
+h1{
+    padding-left: 30%;
+    padding-top: 7%;
+}
+
+div{
+    width: 370px;
+    font-size: 1.1em;
+    padding-left: 30%;
+}
+
+input,label{
+    margin: 5px 0;
+    padding-left: 5px;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+#getcode{
+    margin-left: 20%;
+    font-size: small;
+}
+
+#sign{
+    width: 200px;
+    height:40px;
+    border-radius: 10px;
+    margin-left: 15%;
+    margin-top: 5%;
+    background-color:rgb(0, 153, 255);
+    opacity: 0.5;
+    color: #fff;
+}
+
+#sp1{
+    font-size: 12px;
+    margin-left: 20%;
+}
+
+#sp2{
+    font-size: 12px;
+    margin-left: 20%;
+}
+
+#sp3{
+    font-size: 12px;
+    margin-left: 20%;
+}
+
+#sp4{
+    font-size: 12px;
+    margin-left: 5%;
+}
+
+#sp5{
+    font-size: 12px;
+    font-weight: bold;
+}
