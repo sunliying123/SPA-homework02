@@ -1,18 +1,27 @@
 {
-  "name": "SPA-homework02",
+  "name": "spa-homework02",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "Gruntfile.js",
   "scripts": {
-    "test": "mocha"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunliying123/SPA-homework02.git"
+  },
+  "author": "sunliying",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunliying123/SPA-homework02/issues"
+  },
+  "homepage": "https://github.com/sunliying123/SPA-homework02#readme",
   "devDependencies": {
-    "grunt": "^1.1.0",
+    "gitbook-cli": "^2.3.2",
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-cssmin": "^3.0.0",
-    "grunt-contrib-htmlmin": "^3.1.0",
+    "grunt-contrib-htmlmin": "^2.4.0",
     "grunt-contrib-uglify": "^4.0.1"
   }
 }
